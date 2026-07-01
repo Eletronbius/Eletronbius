@@ -5,7 +5,7 @@ My name is Davi Almeida I'm a Early Carreer Software Engineer looking to get int
 Interested in Computer Science and Engineering related subjects.
 Getting into the competitive programming slowly.
 
-If you're interested to know about my projects and more about me I suggest checking my [portfolio page] (https://eletronbius.github.io/)
+If you're interested to know about my projects and more about me I suggest checking my [portfolio page](https://eletronbius.github.io/)
 
 
 
